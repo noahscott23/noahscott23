@@ -5,6 +5,10 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
 - ⛰️ Located: San Luis Obispo and Santa Ana, Orange County
 - Check out my [LinkedIn](www.linkedin.com/in/noah-scott-880200257)!
 
+### 📌 Notable Contributions
+
+- 🛠️ Contributed to [open-source-project]([https://github.com/owner/repo-name](https://github.com/pchen50/SLOmotion)): added feature X and improved performance of Y.
+
 <!--
 **noahscott23/noahscott23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
