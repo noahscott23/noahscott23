@@ -7,7 +7,7 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
 
 ### 📌 Notable Contributions
 
-- 🛠️ Contributed to [open-source-project](https://github.com/pchen50/SLOmotion): added feature X and improved performance of Y.
+- 🎬 [SLO Motion API](https://github.com/pchen50/SLOmotion) — Co-developed a full-stack Movie Watch List Tracker that allows users to create, manage, and share personalized movie lists. Contributed to building RESTful API endpoints, integrating a PostgreSQL relational database, and implementing features like status-based filtering and personalized ratings. Collaborated with a team of four using Git and GitHub for version control.
 
 <!--
 **noahscott23/noahscott23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
