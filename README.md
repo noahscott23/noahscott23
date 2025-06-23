@@ -17,8 +17,7 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
   - 🔐 Implemented secure user authentication using Auth0.
   - 🗃️ Developed RESTful API endpoints and features like workout filtering, progress tracking, and plan generation.
 
-### 🛠️ Tech Stack
-
+### 🛠️ Skills
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
 </a>
