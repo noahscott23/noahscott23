@@ -19,7 +19,9 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
 
 ### 🛠️ Tech Stack
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+</a>
 
 
 <!--
