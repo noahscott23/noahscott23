@@ -3,10 +3,7 @@
 I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obispo. I'm currently focused on learning more about software development and improving my skills through hands-on projects, building clean and maintainable code, and exploring modern tools and frameworks.
 
 - ⛰️ Located: San Luis Obispo and Santa Ana, Orange County
-- 📝 Check out my [LinkedIn](www.linkedin.com/in/noah-scott-880200257) <a href="https://www.linkedin.com/in/noah-scott-880200257/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-</a>
-
+- 📝 Check out my [LinkedIn](www.linkedin.com/in/noah-scott-880200257)
 
 ### 🛠️ Skills
 <a href="https://www.python.org/" target="_blank">
@@ -49,6 +46,10 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
   - 🗃️ Developed RESTful API endpoints and features like workout filtering, progress tracking, and plan generation.
   
 <!--
+linkedin logo: <a href="https://www.linkedin.com/in/noah-scott-880200257/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+</a>
+
 **noahscott23/noahscott23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
