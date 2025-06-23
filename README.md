@@ -19,10 +19,10 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
 
 ### 🛠️ Tech Stack
 
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg)
-![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg)
-![Postgresql](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg)
-![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg)
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" alt="TypeScript" width="40" height="40" style="color:#3178c6; fill:#3178c6;"/>
+</a>
+
 
 <!--
 **noahscott23/noahscott23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
