@@ -17,6 +17,15 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
   - 🔐 Implemented secure user authentication using Auth0.
   - 🗃️ Developed RESTful API endpoints and features like workout filtering, progress tracking, and plan generation.
 
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+
 <!--
 **noahscott23/noahscott23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
