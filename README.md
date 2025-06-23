@@ -19,9 +19,9 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
 
 ### 🛠️ Tech Stack
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+!(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+!(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+!(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
