@@ -3,19 +3,20 @@
 I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obispo. I'm currently focused on learning more about software development and improving my skills through hands-on projects, building clean and maintainable code, and exploring modern tools and frameworks.
 
 - ⛰️ Located: San Luis Obispo and Santa Ana, Orange County
-- 📝 Check out my [LinkedIn](www.linkedin.com/in/noah-scott-880200257)
+- 📝 Check out my [LinkedIn](www.linkedin.com/in/noah-scott-880200257) <a href="https://www.linkedin.com/in/noah-scott-880200257/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+</a>
 
 
 ### 🛠️ Skills
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+</a>
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
 </a>
-
 <a href="https://www.java.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
