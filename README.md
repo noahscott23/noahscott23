@@ -8,7 +8,7 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
 ### 📌 Notable Contributions
 
 - 🎬 [SLO Motion API](https://github.com/pchen50/SLOmotion) — Co-developed a full-stack Movie Watch List Tracker that allows users to create, manage, and share personalized movie lists. Contributed to building RESTful API endpoints, integrating a PostgreSQL relational database, and implementing features like status-based filtering and personalized ratings. Collaborated with a team of four using Git and GitHub for version control.
-- 💪 Workout Buddy — Collaborated on the development of a full-stack workout planning web app designed to help users log routines, track progress, and connect with friends.
+- 💪 [Workout Buddy](https://github.com/Omarcione/WorkoutPlanner) — Collaborated on the development of a full-stack workout planning web app designed to help users log routines, track progress, and connect with friends.
   - 🧩 Built with Next.js (TypeScript) on the frontend and Java on the backend.
   - 🔐 Implemented secure user authentication using Auth0.
   - 🗃️ Developed RESTful API endpoints and features like workout filtering, progress tracking, and plan generation.
