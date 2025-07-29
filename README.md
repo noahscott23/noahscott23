@@ -35,6 +35,12 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
 </a>
 
 ### 📌 Notable Contributions
+- 🏈 [NFL Fantasy Assistant](https://github.com/noahscott23/Football-App) — Developed a full-stack fantasy football app with a hardcoded AI chatbot, 2025 player projections, and analytics.
+  - React 18 frontend & Express.js backend with Appwrite for data management
+  - Custom projection algorithms considering age, trends, and situational factors
+  - Hardcoded NLP chatbot for player comparisons and fantasy advice
+  - Responsive UI using TailwindCSS and trending player search
+
 - 🎬 [SLO Motion API](https://github.com/pchen50/SLOmotion) — Co-developed a full-stack Movie Watch List Tracker that allows users to create, manage, and share personalized movie lists.
   - Contributed to building RESTful API endpoints
   - Integrating a PostgreSQL relational database, and implementing features like status-based filtering and personalized ratings.
