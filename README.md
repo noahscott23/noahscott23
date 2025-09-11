@@ -51,11 +51,11 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
   - 🔐 Implemented secure user authentication using Auth0.
   - 🗃️ Developed RESTful API endpoints and features like workout filtering, progress tracking, and plan generation.
 
+  
+<!--
  ### Github Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noahscott23&theme=dark)
 
-  
-<!--
 linkedin logo: <a href="https://www.linkedin.com/in/noah-scott-880200257/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
 </a>
