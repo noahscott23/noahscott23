@@ -50,6 +50,9 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
   - 🧩 Built with Next.js (TypeScript) on the frontend and Java on the backend.
   - 🔐 Implemented secure user authentication using Auth0.
   - 🗃️ Developed RESTful API endpoints and features like workout filtering, progress tracking, and plan generation.
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noahscott23)
+
   
 <!--
 linkedin logo: <a href="https://www.linkedin.com/in/noah-scott-880200257/" target="_blank">
