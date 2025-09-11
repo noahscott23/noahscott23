@@ -54,9 +54,6 @@ I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obi
  ### Github Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noahscott23&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=noahscott23&show_icons=true&theme=dark)
-
-
   
 <!--
 linkedin logo: <a href="https://www.linkedin.com/in/noah-scott-880200257/" target="_blank">
