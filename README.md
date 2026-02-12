@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Noah
 
-I'm currently a rising 4th year Computer Science major at Cal Poly, San Luis Obispo. I'm currently focused on learning more about software development and improving my skills through hands-on projects, building clean and maintainable code, and exploring modern tools and frameworks.
+I'm currently a 4th-year Computer Science major at Cal Poly, San Luis Obispo. I'm currently focused on learning more about software development and improving my skills through hands-on projects, building clean and maintainable code, and exploring modern tools and frameworks.
 
 - ⛰️ Located: San Luis Obispo and Santa Ana, Orange County
 - 📝 Check out my [LinkedIn](https://www.linkedin.com/in/noah-scott23/)
